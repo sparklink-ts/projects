@@ -66,4 +66,15 @@ Github Link
 Youtube Video Link
 
                 https://www.youtube.com/playlist?list=PL9SCFf2XVh6i9ngzbsXK9fNeOCZrgWBJt
+
+
+***AWS Lambda | S3 | SNS | API Gateway Using Python Handler***
+
+Github Link
+
+                https://github.com/sparklink-ts/aws-lambda-python-handler
+        
+Youtube Video Link
+
+                https://www.youtube.com/playlist?list=PL9SCFf2XVh6iXJdg8RIgEnqxexmC28SoQ
   
