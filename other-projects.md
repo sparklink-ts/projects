@@ -77,4 +77,21 @@ Github Link
 Youtube Video Link
 
                 https://www.youtube.com/playlist?list=PL9SCFf2XVh6iXJdg8RIgEnqxexmC28SoQ
+
+
+***AWS SQS Type Standard and using REST API***
+
+Github Link
+
+                https://github.com/sparklink-ts/AWS-SQS-Type-Standard
+        
+Youtube Video Link
+
+                https://www.youtube.com/playlist?list=PL9SCFf2XVh6hywSd9L_iZ_l_XVlrKH4bM
+
+
+
+                
+
+
   
