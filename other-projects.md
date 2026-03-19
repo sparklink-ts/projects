@@ -90,6 +90,11 @@ Youtube Video Link
                 https://www.youtube.com/playlist?list=PL9SCFf2XVh6hywSd9L_iZ_l_XVlrKH4bM
 
 
+***AWS EC2 AMI Auto Scaling Group ALB Access without Public IP Access using ALB DNS name***
+
+*YouTube Video Links*
+
+        https://youtu.be/F35d-PPSSVw
 
                 
 
